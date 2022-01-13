@@ -1,0 +1,19 @@
+GItHub/GitLab ID,Name/Description,Code Repo URL
+rust,Rust's source code,https://github.com/rust-lang/rust
+rustdesk,remote desktop software in rust,https://github.com/rustdesk/rustdesk
+TheAlgorithms,algorithms implemented in rust,https://github.com/TheAlgorithms/Rust
+Apache Arrow Datafusion,Data query engine,https://github.com/apache/arrow-datafusion
+Apache Arrow ,Big data representation and access,https://github.com/apache/arrow-rs
+Tensorbase,Big Data warehouse,https://github.com/tensorbase/tensorbase
+Influxdb IOX,(Next gen) Metrics database,https://github.com/influxdata/influxdb_iox
+Delta rust,Big data management solution,https://github.com/delta-io/delta-rs
+Bevyengine,data-driven game engine built in Rust,https://github.com/bevyengine/bevy
+tauri-apps,"Build smaller, faster, and more secure desktop applications with a web frontend.",https://github.com/tauri-apps/tauri
+alacritty,"A cross-platform, OpenGL terminal emulator.",https://github.com/alacritty/alacritty
+rust-random,Random Number Generator,https://github.com/rust-random/rand
+clap-rs,"A full featured, fast Command Line Argument Parser for Rust",https://github.com/clap-rs/clap
+nalgebra,Linear algebra library,https://github.com/dimforge/nalgebra
+rust-analyzer,"The lsp server of Rust (""compiler frontend"")",https://github.com/rust-analyzer/rust-analyzer
+rust-clippy,Rust's linter,https://github.com/rust-lang/rust-clippy
+cargo,Rust's package manager,https://github.com/rust-lang/cargo
+Yew,Rust / Wasm framework for building client web apps,https://github.com/yewstack/yew/
