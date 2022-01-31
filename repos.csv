@@ -21,3 +21,4 @@ plotters, A rust drawing library for high quality data plotting for both WASM an
 syn, Parser for Rust source code , https://github.com/dtolnay/syn
 regex, An implementation of regular expressions for Rust, https://github.com/rust-lang/regex
 serde-rs, Serialization framework for Rust, https://github.com/serde-rs/serde
+bitflags, A macro to generate structures which behave like bitflags, https://github.com/bitflags/bitflags
