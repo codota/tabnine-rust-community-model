@@ -26,3 +26,4 @@ structopt, Parse command line argument by defining a struct, https://github.com/
 mio, Lightweight non-blocking IO, https://github.com/tokio-rs/mio
 tokio, "An event-driven, non-blocking I/O platform for writing asynchronous I/O backed applications", https://github.com/tokio-rs/tokio
 tarpc, An RPC framework for Rust with a focus on ease of use, https://github.com/google/tarpc
+jsonwebtoken, Create and decode JWTs in a strongly typed way, https://github.com/Keats/jsonwebtoken
