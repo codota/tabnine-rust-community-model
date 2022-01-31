@@ -19,3 +19,4 @@ cargo,Rust's package manager,https://github.com/rust-lang/cargo
 Yew,Rust / Wasm framework for building client web apps,https://github.com/yewstack/yew/
 plotters, A rust drawing library for high quality data plotting for both WASM and native statically and realtimely, https://github.com/38/plotters
 syn, Parser for Rust source code , https://github.com/dtolnay/syn
+regex, An implementation of regular expressions for Rust, https://github.com/rust-lang/regex
