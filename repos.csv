@@ -40,3 +40,10 @@ macroquad,Cross-platform game engine in Rust.,https://github.com/not-fl3/macroqu
 Tantivy,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,https://github.com/quickwit-oss/tantivy
 rr-debugger,Record and Replay Framework,https://github.com/rr-debugger/rr
 starship,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",https://github.com/starship/starship
+warp,"A super-easy, composable, web server framework for warp speeds.",https://github.com/seanmonstar/warp
+Druid,A data-first Rust-native UI design toolkit.,https://github.com/linebender/druid
+iced,"A cross-platform GUI library for Rust, inspired by Elm",https://github.com/iced-rs/iced
+swc,Rust-based platform for the Web,https://github.com/swc-project/swc
+servo,The Servo Browser Engine,https://github.com/servo/servo
+redox-os/tfs,Next Generation File System,https://github.com/redox-os/tfs
+redox-os/orbtk,The Rust UI-Toolkit.,https://github.com/redox-os/orbtk
