@@ -27,3 +27,16 @@ mio, Lightweight non-blocking IO, https://github.com/tokio-rs/mio
 tokio, "An event-driven, non-blocking I/O platform for writing asynchronous I/O backed applications", https://github.com/tokio-rs/tokio
 tarpc, An RPC framework for Rust with a focus on ease of use, https://github.com/google/tarpc
 jsonwebtoken, Create and decode JWTs in a strongly typed way, https://github.com/Keats/jsonwebtoken
+coreutils,Cross-platform Rust rewrite of the GNU coreutils,https://github.com/uutils/coreutils
+serde,Serialization framework for Rust,https://github.com/serde-rs/serde
+bitflags,A macro to generate structures which behave like bitflags,https://github.com/bitflags/bitflags
+unicode,,https://github.com/unicode-rs/unicode-xid
+tauri,"Build smaller, faster, and more secure desktop applications with a web frontend.",https://github.com/tauri-apps/tauri
+denoland,A modern runtime for JavaScript and TypeScript.,https://github.com/denoland/deno
+rocket,A web framework for Rust.,https://github.com/SergioBenitez/Rocket
+actix,,https://github.com/actix/actix-web
+rustls,A modern TLS library in Rust,https://github.com/rustls/rustls
+macroquad,Cross-platform game engine in Rust.,https://github.com/not-fl3/macroquad
+Tantivy,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust,https://github.com/quickwit-oss/tantivy
+rr-debugger,Record and Replay Framework,https://github.com/rr-debugger/rr
+starship,"The minimal, blazing-fast, and infinitely customizable prompt for any shell!",https://github.com/starship/starship
