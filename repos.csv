@@ -47,3 +47,7 @@ swc,Rust-based platform for the Web,https://github.com/swc-project/swc
 servo,The Servo Browser Engine,https://github.com/servo/servo
 redox-os/tfs,Next Generation File System,https://github.com/redox-os/tfs
 redox-os/orbtk,The Rust UI-Toolkit.,https://github.com/redox-os/orbtk
+axum,axum is a web application framework that focuses on ergonomics and modularity.,https://github.com/tokio-rs/axum
+hecs,hecs provides a high-performance, minimalist entity-component-system (ECS) world.,https://github.com/Ralith/hecs
+rayon,Rayon is a data-parallelism library for Rust.,https://github.com/rayon-rs/rayon
+tracing,tracing is a framework for instrumenting Rust programs to collect structured, event-based diagnostic information.,https://github.com/tokio-rs/tracing/tree/HEAD/tracing
